@@ -21,8 +21,7 @@ Excel Workbook — Customer feedback dataset (97 records)
 
 **PAGE 2 - CUSTOMER AND POLICY DETAILS**
 <img width="1127" height="643" alt="image" src="https://github.com/user-attachments/assets/7b16030b-4168-4490-9ae6-ef8c03c2e68d" />
-
-* Tabular view of:
+Tabular view of:
 * Policy Number, Customer ID, Claim Number
 * Premium & Claim amounts
 * Policy Start/End dates
